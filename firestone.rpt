@@ -58,7 +58,7 @@
                      DIMM5_Func |      DIMM5 |  0x20  | 0x0C | 0x23 |    5 |   17 | 0x00030001 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-1/dimm-0
                      DIMM6_Temp |      DIMM6 |  0x20  | 0x01 | 0x6F |    6 |   18 | 0x00030002 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-2/dimm-0
                      DIMM6_Func |      DIMM6 |  0x20  | 0x0C | 0x24 |    6 |   18 | 0x00030002 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-2/dimm-0
-                     DIMM7_Temp |      DIMM7 |  0x20  | 0x01 | 0x70 |    7 |   19 | 0x00030003 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-3/dimm-0
+                     DIMM7_Temp |      DIMM7 |  0x20  | 0x01 | 0x70 |    7 | 19 | 0x00030003 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-3/dimm-0
                      DIMM7_Func |      DIMM7 |  0x20  | 0x0C | 0x25 |    7 |   19 | 0x00030003 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-3/dimm-0
                    MEMBUF1_Temp |    MEMBUF1 |  0xD1  | 0x01 | 0x66 |    1 |    5 | 0x00040000 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/membuf-0
                    MEMBUF1_Func |    MEMBUF1 |  0xD1  | 0x0C | 0x57 |    1 |    5 | 0x00040000 | /sys-0/node-0/ponderosa-0/birchconn-1/birch-0/membuf-0
