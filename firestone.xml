@@ -1,6 +1,6 @@
 <targetInstances>
 <enumerationType>
-	<id>DIRECTION2</id>
+	<id>DIRECTION3</id>
 		<enumerator>
 		<name>IN</name>
 		<value>0</value>
